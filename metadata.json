@@ -1,0 +1,5 @@
+{
+  "name": "AmphiDash - Observatoire Amphibiens",
+  "description": "Tableau de bord interactif pour l'analyse des observations naturalistes d'amphibiens (format SINP).",
+  "requestFramePermissions": []
+}
